@@ -1,8 +1,8 @@
 # confs
 multiple confs
 
-# [ganesha](./ganesha): sample nfs-ganesha conf using VFS FASL;
-On Fedora 21, 
+### [ganesha](./ganesha): sample nfs-ganesha conf using VFS FASL On Fedora 21,
+
 
 ```console
 yum install -y nfs-ganesah
